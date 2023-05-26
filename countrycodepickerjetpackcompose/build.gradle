@@ -54,7 +54,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.mprakashdev2'
                 artifactId = 'countrycodejetpackcompose'
-                version = '1.0'
+                version = '1.2'
             }
         })
     }
